@@ -7,4 +7,4 @@
 <h2 align="center">License</h2>
 <p align="center"><a href="https://github.com/keselekpermen69/UserButt/blob/sql-extended/LICENSE">Raphielscape Public License</a> - Version 1.c, June 2019</p>
 string_sessionst
-repl.it/@KeselekPermen/UserButt#main.py
+https://repl.it/@KeselekPermen/UserButt#main.py
